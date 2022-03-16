@@ -1,0 +1,97 @@
+
+---Downloaded files---
+The import files for: Almaira Shop Light Scheme were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/cuahangbian
+Data file = C:\xampp\htdocs\cuahangbian/wp-content/uploads/2020/09/demo-content-import-file_2020-09-23__13-50-43.xml
+Widget file = C:\xampp\htdocs\cuahangbian/wp-content/uploads/2020/09/demo-widgets-import-file_2020-09-23__13-50-43.json
+Customizer file = C:\xampp\htdocs\cuahangbian/wp-content/uploads/2020/09/demo-customizer-import-file_2020-09-23__13-50-43.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Bài viết mới - No Title - Imported
+Mây thẻ sản phẩm - Product tags - Imported
+
+Footer Top Second Widget : 
+
+Ảnh - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Thanh điều hướng - Get To Know Us - Imported
+
+Footer Widget Area 2 : 
+
+Thanh điều hướng - Let Us Help You - Imported
+
+Footer Widget Area 3 : 
+
+Thanh điều hướng - Useful Links - Imported
+
+Footer Widget Area 4 : 
+
+Thanh điều hướng - Our Story - Imported
+
+WooCommerce Sidebar : 
+
+Lọc sản phẩm bởi Thuộc tính - Filter by color - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Các danh mục sản phẩm - Product categories - Imported
+Sản phẩm - Products - Imported
+
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Mây thẻ sản phẩm - Product tags - Widget already exists
+
+Footer Top Second Widget : 
+
+Ảnh - No Title - Widget already exists
+
+Footer Widget Area 1 : 
+
+Thanh điều hướng - Get To Know Us - Widget already exists
+
+Footer Widget Area 2 : 
+
+Thanh điều hướng - Let Us Help You - Widget already exists
+
+Footer Widget Area 3 : 
+
+Thanh điều hướng - Useful Links - Widget already exists
+
+Footer Widget Area 4 : 
+
+Thanh điều hướng - Our Story - Widget already exists
+
+WooCommerce Sidebar : 
+
+Lọc sản phẩm bởi Thuộc tính - Filter by color - Widget already exists
+Lọc sản phẩm bởi giá - Filter by price - Widget already exists
+Các danh mục sản phẩm - Product categories - Widget already exists
+Sản phẩm - Products - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
